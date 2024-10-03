@@ -1,0 +1,4 @@
+﻿  serialClient.cpp
+C:\Users\kabir\OneDrive\Desktop\College\BTN415\Lab8\Lab8Client\serialClient.cpp(29,82): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kabir\OneDrive\Desktop\College\BTN415\Lab8\Lab8Client\serialClient.cpp(66,94): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Lab8Client.vcxproj -> C:\Users\kabir\OneDrive\Desktop\College\BTN415\Lab8\Lab8Client\x64\Debug\Lab8Client.exe

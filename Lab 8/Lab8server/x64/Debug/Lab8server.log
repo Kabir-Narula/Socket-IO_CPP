@@ -1,0 +1,4 @@
+﻿  serialServer.cpp
+C:\Users\kabir\OneDrive\Desktop\College\BTN415\Lab8\Lab8server\serialServer.cpp(61,84): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kabir\OneDrive\Desktop\College\BTN415\Lab8\Lab8server\serialServer.cpp(86,83): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Lab8server.vcxproj -> C:\Users\kabir\OneDrive\Desktop\College\BTN415\Lab8\Lab8server\x64\Debug\Lab8server.exe
