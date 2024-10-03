@@ -1,0 +1,3 @@
+﻿  serialClient.cpp
+C:\Users\kabir\OneDrive\Desktop\Client\serialClient.cpp(38,8): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Client.vcxproj -> C:\Users\kabir\OneDrive\Desktop\Client\x64\Debug\Client.exe
