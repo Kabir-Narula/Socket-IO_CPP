@@ -1,0 +1,6 @@
+﻿  Email.cpp
+  ServerMain.cpp
+  SocketServer.cpp
+C:\Users\kabir\OneDrive\Desktop\Server\SocketServer.cpp(80,66): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  Server.vcxproj -> C:\Users\kabir\OneDrive\Desktop\Server\x64\Debug\Server.exe
