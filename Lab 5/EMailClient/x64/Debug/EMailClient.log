@@ -1,0 +1,5 @@
+﻿  Email.cpp
+  EmailClient.cpp
+C:\Users\kabir\OneDrive\Desktop\EMailClient\EmailClient.cpp(32,62): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  EMailClient.vcxproj -> C:\Users\kabir\OneDrive\Desktop\EMailClient\x64\Debug\EMailClient.exe
